@@ -10,10 +10,10 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
 
 ## Projects
 - Current Project:
-  -  refining my custom GAN to combat against the vanishing gradient and to allow previously saved models to load and generate.
+  -  refining my custom GAN to combat against mode collapse. 
 
 - Previous Projects:
-  -   Made mods for Abitoic Factor using Lua and open-source software called UE4SS (+1000 unique downloads)
+  -   Made mods for Abitoic Factor using Lua and open-source software called UE4SS (+1100 unique downloads)
   -   Implemented multiplayer in my Unreal Engine game using Steamworks SDK and API.
   -   Published several Roblox games using Lua.
   -   2 Minecraft mods using Java.
