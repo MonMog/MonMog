@@ -9,8 +9,9 @@
 I'm a computer engineering student, planning to graduate in early 2027 with a concentration in robotics. I’m driven by my passion for learning. I enjoy delving into programming, with a strong curiosity for both software and hardware. I also enjoy hands-on work with Arduinos and Raspberry Pis. When I take on a new topic, I’m fully committed to diving deep and making sure I understand the ins and outs of it.
 
 ## Projects
-- Current Project:
+- Current Projects:
   -  refining my custom GAN to combat against mode collapse and to increase image generation quality.
+  -  Creating a website that will be hosted 24/7 on a VM instance provided by Oracle Cloud.
 
 - Previous Projects:
   -   Developed mods for Abiotic Factor using Lua and UE4SS (an open-source software); surpassed 1,100 unique downloads.
