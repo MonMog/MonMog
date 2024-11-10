@@ -10,10 +10,10 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
 
 ## Projects
 - Current Projects:
-  -  refining my custom GAN to combat against mode collapse and to increase image generation quality.
-  -  Adding accounts to my VM instance website and storing messages
+  -  Incorporating mySQL into my web based chat room hosted on Oracle Cloud.
 
 - Previous Projects:
+  -   Made a Generative Adversarial Network in Python using Tensorflow, Numpy and matplotlib to produce fake photos of cats from a dataset.
   -   Developed mods for Abiotic Factor using Lua and UE4SS (an open-source software); surpassed 1,100 unique downloads.
   -   Implemented multiplayer in my Unreal Engine game using Steamworks SDK and API.
   -   Published multiple Roblox games using Lua.
