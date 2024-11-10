@@ -11,7 +11,7 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
 ## Projects
 - Current Projects:
   -  refining my custom GAN to combat against mode collapse and to increase image generation quality.
-  -  Creating a website that will be hosted 24/7 on a VM instance provided by Oracle Cloud.
+  -  Adding accounts to my VM instance website and storing messages
 
 - Previous Projects:
   -   Developed mods for Abiotic Factor using Lua and UE4SS (an open-source software); surpassed 1,100 unique downloads.
