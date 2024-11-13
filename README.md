@@ -9,8 +9,8 @@
 I'm a computer engineering student, planning to graduate in early 2027 with a concentration in robotics. I’m driven by my passion for learning. I enjoy delving into programming, with a strong curiosity for both software and hardware. I also enjoy hands-on work with Arduinos and Raspberry Pis. When I take on a new topic, I’m fully committed to diving deep and making sure I understand the ins and outs of it.
 
 ## Projects
-- Current Projects:
-  -  Incorporating mySQL into my web based chat room hosted on Oracle Cloud.
+- Current Project(s):
+  -  Customizing the UI of my website
 
 - Previous Projects:
   -   Made a Generative Adversarial Network in Python using Tensorflow, Numpy and matplotlib to produce fake photos of cats from a dataset.
