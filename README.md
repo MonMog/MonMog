@@ -10,7 +10,7 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
 
 ## Projects
 - Current Project(s):
-  -  Allowing previous messages to be seen on my website
+  -  Allowing users to have their own profiles with custom message and profile picture
 
 - Previous Projects:
   -   Made a Generative Adversarial Network in Python using Tensorflow, Numpy and matplotlib to produce fake photos of cats from a dataset.
