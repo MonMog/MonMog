@@ -10,7 +10,7 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
 
 ## Projects
 - Current Project(s):
-  -  Building Pong in javascript to use reinforcement learning to train it to be efficent at playing.
+  -  Incorporating the NEAT algorithm (using a library) in the javascript Pong game.
 
 - Previous Projects:
   -   Made a Generative Adversarial Network in Python using Tensorflow, Numpy and matplotlib to produce fake photos of cats from a dataset.
