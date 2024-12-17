@@ -16,7 +16,7 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
   -   Made a Generative Adversarial Network in Python using Tensorflow, Numpy and matplotlib to produce fake photos of cats from a dataset.
   -   Deployed a chatroom website where users can login and register and private message using an Ubuntu VM running on Oracle Cloud and with Apache2, Node.js and Mysql.
   -   Used Neataptic (Open-source JS implementation of the NEAT algorithm) to train an AI agent to play Pong using Javascript.
-  -   Developed mods for Abiotic Factor using Lua and UE4SS (an open-source software); surpassed 1,100 unique downloads.
+  -   Developed mods for Abiotic Factor using Lua and UE4SS (an open-source software); surpassed 1,700 unique downloads.
   -   Implemented multiplayer in my Unreal Engine game using Steamworks SDK and API.
   -   Published multiple Roblox games using Lua.
   -   Built two Minecraft mods using Java.
