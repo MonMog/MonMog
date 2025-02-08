@@ -10,7 +10,8 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
 
 ## Projects
 - Current Project(s):
-  -  Determining next project... something to do with AI... surely...
+  -  Figuring out how to make my own API call to run deepseekr1 locally and put it on a discord bot
+  -  School !!!
 
 - Previous Projects:
   -   Made a Generative Adversarial Network in Python using Tensorflow, Numpy and matplotlib to produce fake photos of cats from a dataset.
