@@ -10,7 +10,7 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
 
 ## Projects
 - Current Project(s):
-  -  Figuring out how to make my own API call to run deepseekr1 locally and put it on a discord bot
+  -  Connecting my discord bot to make API calls to a locally runned AI model
   -  School !!!
 
 - Previous Projects:
