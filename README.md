@@ -10,14 +10,14 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
 
 ## Projects
 - Current Project(s):
-  -  Connecting my discord bot to make API calls to a locally runned AI model
-  -  School !!!
+  -  In need of another project...
 
 - Previous Projects:
   -   Made a Generative Adversarial Network in Python using Tensorflow, Numpy and matplotlib to produce fake photos of cats from a dataset.
   -   Deployed a chatroom website where users can login and register and private message using an Ubuntu VM running on Oracle Cloud and with Apache2, Node.js and Mysql.
   -   Used Neataptic (Open-source JS implementation of the NEAT algorithm) to train an AI agent to play Pong using Javascript.
   -   Using VDOT's website and traffic information, automated updating a state map of VA to display accident related incidents using github actions and to record the accidents.
+  -   Locally hosted DeepseekR1-1.5B using ollama and had own Discord bot make API calls to take inputs from the chat and output the response.
   -   Developed mods for Abiotic Factor using Lua and UE4SS (an open-source software); surpassed 1,700 unique downloads.
   -   Implemented multiplayer in my Unreal Engine game using Steamworks SDK and API.
   -   Published multiple Roblox games using Lua.
