@@ -18,7 +18,8 @@ I'm a computer engineering student, planning to graduate in early 2027 with a co
   -   Used Neataptic (Open-source JS implementation of the NEAT algorithm) to train an AI agent to play Pong using Javascript.
   -   Using VDOT's website and traffic information, automated updating a state map of VA to display accident related incidents using github actions and to record the accidents.
   -   Locally hosted MISTRAL using ollama and had own Discord bot make API calls to take inputs from the chat and output the response.
-  -   Developed mods for a popular steam co-op game using Lua and UE4SS (an open-source software); surpassed 2,000 unique downloads.
+  -   Developed several mods for a popular steam co-op game using Lua and UE4SS (an open-source software); all the mods together surpassed 2,000 unique downloads.
+  -   Also developed another mod for another popular steam co-op game using dll decompiling for Unity, the sole mod has over 1,000 unique downloads.
   -   Implemented multiplayer in my Unreal Engine game using Steamworks SDK and API.
   -   Published multiple Roblox games using Lua.
   -   Built two Minecraft mods using Java.
